@@ -22,6 +22,9 @@ And then execute:
 - Camel_Snake_Case
 - MalFOrmed-Case
 
+## As an IDEA Hash can access data and transform it to desired format
+Need to think about Design
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/pironim/case_agnostic_hash
